@@ -1,8 +1,8 @@
 ### Olá! Um pouco sobre mim...
 
-- 💡 Entusiasta em tecnologia.
-- 💻 Desenvolvedor back-end com ênfase na linguagem de programação Java.
-- 📕 Pós-graduando em Full Stack Java Developer na UNICIV.
+- 💡 Entusiasta em tecnologia;
+- 💻 Desenvolvedor back-end com ênfase na linguagem de programação Java;
+- 📕 Pós-graduando em Full Stack Java Developer na UNICIV;
 - 📗 Pós-graduado em Engenharia de Software pela UNESA.
 
 <div align="center">
