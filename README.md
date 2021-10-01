@@ -1,4 +1,4 @@
-### Olá! Eu sou o Rafael, prazer!
+### Olá! Um pouco sobre mim...
 
 - 💡 Entusiasta em tecnologia.
 - 💻 Desenvolvedor back-end com ênfase na linguagem de programação Java.
