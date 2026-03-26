@@ -1,38 +1,70 @@
-### Olá! Um pouco sobre mim...
+<h1 align="center">Olá 👋, eu sou o Rafael</h1>
 
-- 💡 Entusiasta em tecnologia;
-- 💻 Desenvolvedor back-end com ênfase na linguagem de programação Java;
-- 📗 Pós-graduado em Full Stack Java Developer pela UNICIV;
-- 📕 Pós-graduado em Engenharia de Software pela UNESA;
-- 📗 Pós-graduado em Engenharia de IA Aplicada pela UNIPDS.
+<p align="center">
+  💻 Desenvolvedor Back-end Java <br>
+  🚀 Apaixonado por tecnologia e arquitetura de software
+</p>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelmattosrj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmattosrj&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+---
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Jv" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-</div>
-  
-##
+## 👨‍💻 Sobre mim
 
-<div> 
-  <a href="https://api.whatsapp.com/send?phone=5521983088512&text=Oi%20Rafael,%20tudo%20bem?" target="_blank">
+- 💡 Entusiasta em tecnologia  
+- 💻 Desenvolvedor back-end com foco em **Java**  
+- 📚 Pós-graduado em:
+  - Full Stack Java Developer (UNICIV)
+  - Engenharia de Software (UNESA)
+  - Engenharia de IA Aplicada (UNIPDS)
+
+---
+
+## 🛠️ Tecnologias
+
+<p align="center">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+</p>
+
+---
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rafaelmattosrj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rafaelmattosrj&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
+
+---
+
+## 📈 Atividade
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafaelmattosrj&theme=tokyo-night"/>
+</p>
+
+---
+
+## 📫 Contato
+
+<p align="center">
+  <a href="https://api.whatsapp.com/send?phone=5521983088512">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
-
   <a href="mailto:rafaelrj@live.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-
   <a href="https://www.linkedin.com/in/rafael-mattos-/">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a> 
- 
-  ![Snake animation](https://github.com/rafaelmattosrj/rafaelmattosrj/blob/output/github-contribution-grid-snake.svg)
-</div>
+  </a>
+</p>
+
+---
+
+## 🐍 Contribuições
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rafaelmattosrj/rafaelmattosrj/output/github-contribution-grid-snake.svg">
+</p>
