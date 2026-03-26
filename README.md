@@ -2,11 +2,12 @@
 
 - 💡 Entusiasta em tecnologia;
 - 💻 Desenvolvedor back-end com ênfase na linguagem de programação Java;
-- 📕 Pós-graduado em Full Stack Java Developer pela UNICIV;
-- 📗 Pós-graduado em Engenharia de Software pela UNESA.
+- 📗 Pós-graduado em Full Stack Java Developer pela UNICIV;
+- 📕 Pós-graduado em Engenharia de Software pela UNESA;
+- 📗 Pós-graduado em Engenharia de IA Aplicada pela UNIPDS.
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/rafael-mattos-moreira-414948197">
+  <a href="https://www.linkedin.com/in/rafael-mattos-/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelmattosrj&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmattosrj&layout=compact&langs_count=7&theme=dark"/>
 </div>
