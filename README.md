@@ -2,7 +2,7 @@
 
 <p align="center">
   💻 Desenvolvedor Back-end Java <br>
-  🚀 Apaixonado por tecnologia e arquitetura de software
+  🚀 Construindo soluções com foco em tecnologia e Inteligência Artificial
 </p>
 
 ---
