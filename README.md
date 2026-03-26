@@ -9,12 +9,40 @@
 
 ## 👨‍💻 Sobre mim
 
-- 💡 Entusiasta em tecnologia  
-- 💻 Desenvolvedor back-end com foco em **Java**  
-- 📚 Pós-graduado em:
-  - Full Stack Java Developer (UNICIV)
-  - Engenharia de Software (UNESA)
-  - Engenharia de IA Aplicada (UNIPDS)
+💻 Desenvolvedor Back-end com foco em **Java e APIs de alta performance**  
+🚀 Experiência com sistemas críticos, alto volume de transações e integrações complexas  
+🤖 Explorando **Inteligência Artificial aplicada ao desenvolvimento**  
+
+Atuação voltada ao desenvolvimento de soluções para pagamentos digitais (PIX, cartões, wallets e boleto), com foco em **resiliência, escalabilidade e impacto no negócio**.
+
+---
+
+## ⚙️ Stack principal
+
+- **Backend:** Java 17, Spring Boot  
+- **Arquitetura:** Clean Architecture, DDD  
+- **Mensageria:** RabbitMQ, Pub/Sub  
+- **Banco de dados:** MySQL, MongoDB, Redis  
+- **Testes:** JUnit 5, Mockito, Spock, K6  
+- **Observabilidade:** Prometheus, Grafana, OpenTelemetry  
+- **Infra:** Docker, CI/CD (GitLab), GCP  
+
+---
+
+## 🤖 IA no dia a dia
+
+- Prompt Engineering  
+- Uso de ferramentas como **Cursor, Claude Code, Copilot e Gemini**  
+- Automação de tarefas e aumento de produtividade no desenvolvimento  
+
+---
+
+## 🚀 Destaques
+
+- 🔥 Desenvolvimento de gateway de pagamentos com múltiplos PSPs  
+- ⚡ Processamento de alto volume com foco em performance  
+- 💳 Integrações com PIX, cartões, wallets e boleto  
+- 📉 Estratégias para redução de falhas e aumento de conversão em pagamentos  
 
 ---
 
@@ -22,10 +50,12 @@
 
 <p align="center">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 </p>
 
 ---
