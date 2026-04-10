@@ -19,7 +19,7 @@ Atuação voltada ao desenvolvimento de soluções para pagamentos digitais (PIX
 
 ## ⚙️ Stack principal
 
-- **Backend:** Java 17, Spring Boot  
+- **Backend:** Java 25, Spring Boot  
 - **Arquitetura:** Clean Architecture, DDD  
 - **Mensageria:** RabbitMQ, Pub/Sub  
 - **Banco de dados:** MySQL, MongoDB, Redis  
